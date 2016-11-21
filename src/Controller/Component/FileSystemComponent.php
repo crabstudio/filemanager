@@ -7,7 +7,7 @@ use Cake\Controller\ComponentRegistry;
 use League\Flysystem\Adapter\Local as LocalAdapter;
 use League\Flysystem\Filesystem;
 
-class FilesystemComponent extends Component {
+class FileSystemComponent extends Component {
 
    /**
      * Default configuration.
